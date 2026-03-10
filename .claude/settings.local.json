@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"/mnt/c/Users/Rinshid/Desktop/flutter pr samples/use_app/newapp\" && cmd.exe /c \"cd /d C:\\\\Users\\\\Rinshid\\\\Desktop\\\\flutter pr samples\\\\use_app\\\\newapp && flutter build web\" 2>&1 | tail -10)"
+    ]
+  }
+}
